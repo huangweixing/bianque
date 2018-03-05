@@ -1,0 +1,326 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+}
+.container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.container .header {
+    width: 9rem;
+    line-height: 1.31rem;
+    font-size: 26px;
+}
+.container .header img{
+  width: .5rem;
+  height: .69rem;
+  margin-top: .4rem;
+  float: left;
+  padding-left: 0.5rem;
+}
+.container .header h2{
+  padding-right: 2rem;
+  font-size: .43rem;
+}
+.pages{
+  width: 100%;
+  height: 100%;
+}
+.pages .bq_w{
+  width: 100%;
+  height: 4.26rem;
+  padding-top: .4rem;
+  background: url(../images/langlogo_02.png)no-repeat;
+  background-size: 100%;
+}
+.pages .bq_w .bq_item{
+  color: #fff;
+  width: 6.39rem;
+  height: 3.33rem;
+  border: 6px solid #400208;
+  margin: 0 auto;
+}
+.pages .bq_w .bq_item .bq_r{
+  width: 6rem;
+  height: 3rem;
+  margin: 0 auto;
+  margin-top: .2rem;
+  background-color: #400208;
+}
+.pages .bq_w .bq_item .bq_r h2{
+  height: 1rem;
+  line-height: 1rem;
+  font-size: .46rem;
+}
+.pages .bq_w .bq_item .bq_r .bq_items{
+  height: .37rem;
+}
+.pages .bq_w .bq_item .bq_r .bq_items p{
+  width: 5.6rem;
+  height: .37rem;
+  background: #260004;
+  display: inline-block;
+  font-size: .24rem;
+}
+.pages .bq_w .bq_item .bq_r .bq_items p img{
+  width: .43rem;
+  height: .11rem;
+}
+.pages .bq_w .bq_item .bq_r .bq_bm{
+  margin-top: .2rem;
+  font-size: .22rem;
+}
+.pages .bq_w .bq_item .bq_r .btn{
+  width: 2.31rem;
+  height: .46rem;
+  line-height: .46rem;
+  background-color: #fabe00;
+  margin: 0 auto;
+  margin-top: .2rem;
+  border-radius: 20px;
+  color: #000;
+  font-size: .28rem;
+  font-weight: 600;
+}
+.pages .base{
+  height: 4rem;
+  width: 100%;
+  background: url(../images/bqlogo_03.png)no-repeat center;
+  background-size: 50%;
+  margin: 0 auto;
+  padding-bottom: 6rem;
+}
+.pages .base .base-item{
+  width: 9rem;
+  margin: 0 auto;
+}
+.pages .base .base-item h3{
+  height: 1rem;
+  line-height: 1rem;
+  width: 100%;
+  font-size: .33rem;
+  font-weight: 600;
+  color: #3f0207;
+}
+.pages .base .base-item p{
+  height: 2.8rem;
+  color: #666;
+  font-size: .24rem;
+  text-align: left;
+  text-indent: .6rem;
+}
+.pages .base .base-list{
+  width: 9rem;
+  margin: 0 auto;
+}
+.pages .base .base-list h3{
+  width: 100%;
+  font-size: .33rem;
+  color: #3f0207;
+  font-weight: 600;
+}
+.pages .base .base-list .bm{
+  margin-top: 20px;
+}
+.pages .base .base-list p{
+  text-align: left;
+  font-size: .24rem;
+  color: #666;
+  margin-top: .1rem;
+}
+.pages .base .base-br{
+  width: 7.13rem;
+  height: .46rem;
+  display: inline-block;
+  background: url(../images/cstj_03.png)no-repeat;
+  background-size: 100%;
+  margin-top: .5rem;
+}
+.pages .base .below{
+  width: 100%;
+}
+.pages .base .below h4{
+  height: 1rem;
+  line-height: 1rem;
+  font-size: .32rem;
+  width: 9.4rem;
+  margin: 0 auto;
+  text-align: left;
+  color: #3f0207;
+  font-weight: 600;
+}
+.pages .base .below ul li{
+  width: 9rem;
+  text-align: left;
+  display: inline-block;
+}
+.pages .base .below ul li .bq_sn{
+  width: .39rem;
+  height: .39rem;
+  line-height: .39rem;
+  background-color: #3f0207;
+  border: 1px solid #3f0207;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+  margin-top: .1rem;
+}
+.pages .base .below ul li p{
+  color: #828180;
+  font-size: .24rem;
+  margin-top: .09rem;
+  display: inline-block;
+  float: left;
+}
+.pages .base .below ul li span{
+  width: 8rem;
+  margin-top: 0.1rem;
+  margin-left: 0.1rem;
+  line-height: .39rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+.pages .base .substance{
+  width: 100%;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+.pages .base .substance h2{
+  margin-top: .93rem;
+  font-size: .37rem;
+  color: #3f0207;
+  font-weight: 600;
+  height: .37rem;
+  padding-top: .6rem;
+}
+.pages .base .substance .substance-list{
+  width: 7.65rem;
+  height: 1.57rem;
+  margin: 0 auto;
+  margin-top: .6rem;
+  background-color: #fff;
+}
+.pages .base .substance .substance-list .substance-item{
+  width: 1.57rem;
+  height: 1.57rem;
+  background-color: #fabe00;
+  display: inline-block;
+  float: left;
+}
+.pages .base .substance .substance-list .substance-item h3{
+  text-align: center;
+  line-height: 1.57rem;
+  font-size: .37rem;
+  color: #fff;
+}
+.pages .base .substance .substance-list p{
+  display: inline-block;
+  width: 5.6rem;
+  font-size: .24rem;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: .04rem;
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.pages .base .version{
+  margin-top: .6rem;
+}
+.pages .base .version .version-text{
+  width: 9rem;
+  text-align: left;
+  display: inline-block;
+}
+.pages .base .version .version-text p{
+  display: inline-block;
+}
+.pages .base .version .version-text h3{
+  height: .26rem;
+  font-size: .26rem;
+  font-weight: 600;
+  display: inline-block;
+}
+.pages .base .version .version-texts{
+  width: 9rem;
+  margin: 0 auto;
+}
+.pages .base .version .version-texts h4{
+  font-size: .28rem;
+  font-weight: 600;
+  width: 100%;
+  height: 1.2rem;
+  line-height: 1.2rem;
+}
+.pages .base .magpie{
+  margin-top: 30px;
+  position: relative;
+}
+.pages .base .magpie img{
+  width: 7.87rem;
+  height: 1.15rem;
+  display: inline-block;
+  margin-bottom: -.1rem;
+}
+.pages .base .magpie h3{
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  top: .3rem;
+  left: 0;
+  right: .2rem;
+  bottom: 0;
+  font-style: .37rem;
+  font-weight: 600;
+}
+.pages .base .magpie .magpie-imgs{
+  width: 9rem;
+  height: 100%;
+  background-color: #fabe00;
+  margin: 0 auto;
+  border-radius: 30px;
+}
+.pages .base .magpie .magpie-imgs .magpie-list{
+  padding-top: .3rem;
+  width: 8rem;
+  margin: 0 auto;
+  margin-bottom: .1rem;
+}
+.pages .base .magpie .magpie-imgs .magpie-list p {
+  border-radius: 50%;
+  width: .74rem;
+  height: .74rem;
+  line-height: .74rem;
+  background-color: #000;
+  color: #fabe00;
+  margin: 0 auto;
+  margin-bottom: .1rem;
+}
+.pages .base .magpie .magpie-imgs .magpie-list span{
+  font-size: .24rem;
+}
+.pages .base .period{
+  height: 2rem;
+  line-height: 2rem;
+  font-size: .26rem;
+  color: #999;
+}

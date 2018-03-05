@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+}
+.container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.container .header {
+    line-height: 1.31rem;
+    font-size: 26px;
+}
+.container .header img{
+  width: .5rem;
+  height: .69rem;
+  margin-top: .4rem;
+  float: left;
+  padding-left: 0.5rem;
+}
+.container .header h2{
+  padding-right: 2rem;
+  font-size: .43rem;
+}
+.container .list-bq{
+  height: 1.5rem;
+  width: 1rem;
+  background: url(../images/bqslogo_03.png) no-repeat;
+  background-size:100%;
+  margin-left: 49%;
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+}
+.container .list-group{
+  color: #fff;
+  height: 1.39rem;
+  width: 100%;
+  background-color: #400208;
+}
+.container .list-group h3{
+  font-size: 20px;
+  height: .74rem;
+  line-height: .74rem;
+  font-size: .33rem;
+  width: 100%;
+  font-weight: 600;
+}
+.container .list-group span{
+  width: 100%;
+  font-size: .28rem;
+  height: .28rem;
+}
+.container .content-bq ul li{
+  padding-top: 1rem;
+  width: 100%;
+}
+.container .content-bq ul li .bq_items{
+  width: 2.8rem;
+  display: inline-block;
+  float: left;
+  text-align: right;
+}
+.container .content-bq ul li .bq_item .hint-item{
+  width: 5.4rem;
+  border: 1px solid #d3d3d4;
+  padding: .28rem;
+  float: left;
+}
+.container .content-bq ul li .bq_item{
+  width: 6.8rem;
+  display: inline-block;
+}
+.container .content-bq ul li .bq_item input{
+  float: left;
+  text-indent: 10px;
+}
+.container .content-bq ul li span{
+  font-size: .28rem;
+}
+.container .content-bq ul li span i{
+  text-align: right;
+  font-style: normal;
+  font-size: .09rem;
+  color: #d93923;
+}
+.container .content-bq ul li input{
+  height: .74rem;
+  border-radius: .1rem;
+  border: 1px solid #d3d3d4;
+}
+.container .content-bq ul li{
+  text-align: center;
+}
+.container .content-bqs{
+  width: 3.4rem;
+  height: .72rem;
+  line-height: .72rem;
+  margin: 0 auto;
+  margin-top: 1rem;
+  border: 1px solid #400208;
+}
+.container .content-bqs img{
+  width: .3rem;
+  height: .4rem;
+  float: right;
+  margin-top: .2rem;
+  padding-right: .1rem;
+}
+.container .content-bqs h2{
+  margin: 0 auto;
+  width: 3rem;
+  font-size: .24rem;
+  color: #400208;
+}
+.container .list-group h3{
+  font-size: .33rem;
+}
+.container .list-group p{
+  font-size: .24rem;
+}
+.container .footer .footer-item{
+  width: 4.63rem;
+  height: .69rem;
+  line-height: .69rem;
+  margin: 0 auto;
+  background-color: #fca50b;
+  color: #fff;
+  border-radius: 4px;
+  font-size: .28rem;
+}
+.container .footer .footer-text p{
+  font-size: .22rem;
+}
+.container .footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0rem;
+    margin: 0 auto;
+}

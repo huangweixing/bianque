@@ -1,0 +1,42 @@
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+}
+.container .header h2{
+  font-size: .43rem;
+}
+.container .content img {
+    width: 100%;
+    height: 1.39rem;
+}
+.container ul{
+  width: 100%;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap ;
+  -ms-flex-wrap: wrap ;
+  flex-wrap: wrap ;
+}
+.container ul li{
+  height: 1.44rem;
+  width: 33.333%;
+  line-height: 1.44rem;
+}
+.container .base{
+  width: 100%;
+  height: 2rem;
+  line-height: 2rem;
+  color: #999;
+}

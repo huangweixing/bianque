@@ -1,0 +1,141 @@
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+}
+.container .header h2{
+  font-size: .43rem;
+}
+.bq_f{
+  width: 100%;
+  height: 8rem;
+  padding-top: .28rem;
+  border-bottom: 1px solid #b8b8b8;
+}
+.bq_f h3{
+  text-align: center;
+  color: #7d7b7b;
+}
+.bq_f p{
+  padding-top: .28rem;
+  width: 9rem;
+  margin: 0 auto;
+  color: #b8b8b8;
+}
+.bq_g {
+  width: 100%;
+  height: 1rem;
+  line-height: 1rem;
+  border-bottom: 1px solid #b8b8b8;
+}
+.bq_g h3{
+  color: #7d7b7b;
+  text-align: center;
+}
+.container ul li .content-list span {
+    width: 5.8rem;
+    text-align: left;
+    font-size: .28rem;
+    color: #666;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    margin: 0 auto;
+}
+.container ul li .content-list p {
+    width: 5.8rem;
+    text-align: left;
+    margin: 0 auto;
+    font-size: .28rem;
+    color: #8b8a8a;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+ul li {
+    height: 2.78rem;
+    margin-top: 0px;
+    border-bottom: 1px solid #f0f0f0;
+    background-color: #fff;
+}
+span{
+    color: #7d7b7b;
+}
+p{color: #b8b8b8;}
+.container .base-item h3 {
+    width: 100%;
+    height: 1rem;
+    line-height: 1rem;
+}
+.container .base-item{
+  width: 100%;
+  height: 100%;
+}
+.container .base-item .base-list{
+  width: 100%;
+  height: 100%;
+}
+.container .base-item .base-list .base-left{
+  width: 50%;
+  height: 5.24rem;
+  float: left;
+}
+.container .base-item .base-list .base-left img{
+  width: 4.94rem;
+  height: 4.17rem;
+}
+.container .base-item .base-list .base-right{
+  width: 50%;
+  height: 5.24rem;
+  float: right;
+}
+.container .base-item .base-list .base-right img{
+  width: 4.94rem;
+  height: 4.17rem;
+}
+.container .base-item .base-list .base-left:after{
+            content: '';
+            display: block;
+            clear: both;
+        }
+.container .base-item .base-list .base-right:after{
+              content: '';
+              display: block;
+              clear: both;
+          }
+.container .base-item .base-list .base-left p{
+  width: 4.6rem;
+  font-size: .26rem;
+  text-align: left;
+  margin: 0 auto;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.container .base-item .base-list .base-right p{
+  width: 4.6rem;
+  font-size: .26rem;
+  text-align: left;
+  margin: 0 auto;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.container .base {
+    width: 100%;
+    height: 0px;
+    line-height: 1rem;
+    color: #999;
+}

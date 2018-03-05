@@ -1,0 +1,103 @@
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+}
+.container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.container .header {
+    line-height: 1.31rem;
+    font-size: 26px;
+}
+.container .header img{
+  width: .5rem;
+  height: .69rem;
+  margin-top: .4rem;
+  float: left;
+  padding-left: 0.5rem;
+}
+.container .header h2{
+  padding-right: 1rem;
+  font-size: .43rem;
+}
+.bq_f p{
+  padding-bottom: .3rem;
+  width: 9rem;
+  text-align: left;
+  margin: 0 auto;
+}
+.bq_f{
+  font-size: .24rem;
+  border-bottom: 3px solid #f0f0f0;
+  color: #595757;
+}
+.content .bq_f h3{
+  height: .8rem;
+  line-height: .8rem;
+}
+.container .content ul li {
+  border-bottom: 2px solid #f0f0f0; background-color:#fff; margin-top: 0px;
+  height: 2.78rem;
+}
+.container .content ul li .content-list{
+  float: right;
+  width: 6rem;
+  height: 2rem;
+}
+.container .content ul li .content-list span{
+  width: 5.8rem;
+  text-align: left;
+  font-size: .28rem;
+  color: #666;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  margin: 0 auto;
+}
+.container .content ul li .content-list p{
+  width: 5.8rem;
+  text-align: left;
+  font-size: .28rem;
+  color: #8b8a8a;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+ul li img {
+  width: 3.7rem;
+  height: 2.78rem;
+  float: left;
+}
+ul li .text {
+  width: 63%;
+  float: right;
+  padding-right: .1rem;
+}
+ul li .text font{
+  width: 5.13rem;
+  height: 1.98rem;
+}
+ul li span{
+  float: left;
+}
+.container .base{
+  width: 100%;
+  height: 2rem;
+  line-height: 3rem;
+  background-color: #f0f0f0;
+  color: #999;
+}

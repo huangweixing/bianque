@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+.container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.container .header h2{
+  font-size: .43rem;
+}
+.container .header {
+    line-height: 1.31rem;
+    font-size: 26px;
+}
+.container .header img{
+  width: .5rem;
+  height: .69rem;
+  margin-top: .4rem;
+  float: left;
+  padding-left: 0.5rem;
+}
+.container .list h4{
+  width: 9rem;
+  margin: 0 auto;
+  text-align: left;
+  padding: .09rem;
+  display: block;
+}
+.container .list i{
+  color: #fff;
+  height: .5rem;
+  line-height: .5rem;
+  font-style: normal;
+  float: right;
+  background: url(../images/jtbm_03.png)no-repeat left top;
+  background-size: 100%;
+  padding: 0 10px 0 15px;
+}
+.container .list span{
+  margin-left: 0.4rem;
+  float: left;
+  color: #999;
+  font-size: .24rem;
+}
+.container .list {
+  padding-bottom: 0.2rem;
+  border-bottom: 2px solid #f0f0f0;
+}
+.container .list h3{
+ width: 7.6rem;
+ height: 0.8rem;
+ line-height: 0.8rem;
+ display: inline-block;
+ font-size: .28rem;
+ font-weight: 600;
+ color: #666;
+}
+.container .base{
+  width: 100%;
+  height: 1rem;
+  line-height: 1rem;
+  color: #999;
+  background-color: #f0f0f0;
+}
